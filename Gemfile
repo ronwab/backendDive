@@ -5,6 +5,7 @@ ruby '2.7.0'
 
 gem 'pg'
 gem 'pry', '~> 0.12.2'
+gem 'bcrypt', '~> 3.1', '>= 3.1.12'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.3', '>= 6.0.3.2'
